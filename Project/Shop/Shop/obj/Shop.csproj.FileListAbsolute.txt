@@ -1,0 +1,31 @@
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\bin\Debug\Shop.exe
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\bin\Debug\Shop.pdb
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.Form1.resources
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.exe
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.pdb
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.Form2.resources
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.Form3.resources
+D:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.Form4.resources
+d:\My Documents\Leonid\Leonid\VisualC#\Shop\Shop\obj\Debug\Shop.Form5.resources
+E:\Shop\Shop\obj\Debug\Shop.exe
+E:\Shop\Shop\obj\Debug\Shop.pdb
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.exe
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.CrystalReport1.rpt
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.Form2.resources
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.Form3.resources
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.Form4.resources
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.Form5.resources
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.Form6.resources
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\bin\Debug\Shop.exe
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Documents and Settings\USER21\Desktop\Shop\Shop\bin\Debug\shop.mdb
+K:\Shop\Shop\obj\Debug\Shop.exe
+K:\Shop\Shop\obj\Debug\Shop.pdb

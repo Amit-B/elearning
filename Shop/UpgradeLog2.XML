@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Shop">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Shop.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Shop.suo">
+</Property><Property Name="Date" Value="יום רביעי 05 אוקטובר 2011">
+</Property><Property Name="Time" Value="12:53">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Shop.sln" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Shop.suo" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop.suo">
+</Event><Event ErrorLevel="4" Project="Shop" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Shop.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Shop.csproj">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Shop.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Shop.csproj.user">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Class1.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\CrystalReport1.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\CrystalReport1.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form2.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form2.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form2.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form3.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form3.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form3.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form4.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form4.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form4.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form5.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form5.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form5.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form6.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form6.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form6.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form6.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Program.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\shop.mdb" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\shop.mdb">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\CrystalReport1.rpt" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\CrystalReport1.rpt">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form2.resx" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form3.resx" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form3.resx">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form4.resx" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form4.resx">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form5.resx" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form5.resx">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Form6.resx" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Form6.resx">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Backup1\Shop\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Shop.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Shop" Source="Shop\Shop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Shop.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Shop.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Shop" Source="Shop\Shop.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

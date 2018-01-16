@@ -1,0 +1,694 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F9B7909E-50E7-440A-9BCF-6AB37427EDEF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EL</RootNamespace>
+    <AssemblyName>EL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AppFiles.cs" />
+    <Compile Include="Classes\Audio.cs" />
+    <Compile Include="Classes\Class.cs" />
+    <Compile Include="Classes\Grades.cs" />
+    <Compile Include="Classes\Group.cs" />
+    <Compile Include="Classes\Note.cs" />
+    <Compile Include="Classes\PCPrint.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\Report.cs" />
+    <Compile Include="Classes\Subject.cs" />
+    <Compile Include="CrystalReports\ClassList.cs">
+      <DependentUpon>ClassList.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReports\StudentList.cs">
+      <DependentUpon>StudentList.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CrystalReports\TeacherList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TeacherList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CurrentUser.cs" />
+    <Compile Include="Classes\Duty.cs" />
+    <Compile Include="Classes\Lessons.cs" />
+    <Compile Include="Classes\Student.cs" />
+    <Compile Include="Classes\Teacher.cs" />
+    <Compile Include="Classes\Text.cs" />
+    <Compile Include="Classes\App.cs" />
+    <Compile Include="Classes\INI.cs" />
+    <Compile Include="Classes\Net.cs" />
+    <Compile Include="Classes\SQL.cs" />
+    <Compile Include="Forms\AddLesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddLesson.Designer.cs">
+      <DependentUpon>AddLesson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddNote.Designer.cs">
+      <DependentUpon>AddNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddSomeStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddSomeStudents.Designer.cs">
+      <DependentUpon>AddSomeStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Contact.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Contact.Designer.cs">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Counter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Counter.Designer.cs">
+      <DependentUpon>Counter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Duties.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Duties.Designer.cs">
+      <DependentUpon>Duties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\EditMOTD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\EditMOTD.Designer.cs">
+      <DependentUpon>EditMOTD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Educators.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Educators.Designer.cs">
+      <DependentUpon>Educators.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\InfoFiles.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\InfoFiles.Designer.cs">
+      <DependentUpon>InfoFiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Lobby.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Lobby.Designer.cs">
+      <DependentUpon>Lobby.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Mailer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Mailer.Designer.cs">
+      <DependentUpon>Mailer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Permissions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Permissions.Designer.cs">
+      <DependentUpon>Permissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics1.Designer.cs">
+      <DependentUpon>Statistics1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics2.Designer.cs">
+      <DependentUpon>Statistics2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics3.Designer.cs">
+      <DependentUpon>Statistics3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Statistics4.Designer.cs">
+      <DependentUpon>Statistics4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Subjects.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\Subjects.Designer.cs">
+      <DependentUpon>Subjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\SystemSetting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\SystemSetting.Designer.cs">
+      <DependentUpon>SystemSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\TeacherAdd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\TeacherAdd.Designer.cs">
+      <DependentUpon>TeacherAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\TeacherEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\TeacherEdit.Designer.cs">
+      <DependentUpon>TeacherEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\TeacherList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration Forms\TeacherList.Designer.cs">
+      <DependentUpon>TeacherList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Administration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Administration.Designer.cs">
+      <DependentUpon>Administration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CancelStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CancelStudent.Designer.cs">
+      <DependentUpon>CancelStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditClassStudents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditClassStudents.Designer.cs">
+      <DependentUpon>EditClassStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EmbeddingClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EmbeddingClasses.Designer.cs">
+      <DependentUpon>EmbeddingClasses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Error.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Error.Designer.cs">
+      <DependentUpon>Error.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Grades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Grades.Designer.cs">
+      <DependentUpon>Grades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GroupEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GroupEditor.Designer.cs">
+      <DependentUpon>GroupEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InfoFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InfoFile.Designer.cs">
+      <DependentUpon>InfoFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Input.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Input.Designer.cs">
+      <DependentUpon>Input.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Install.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Install.Designer.cs">
+      <DependentUpon>Install.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TMP_Install.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TMP_Install.Designer.cs">
+      <DependentUpon>TMP_Install.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TMP_Install_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TMP_Install_2.Designer.cs">
+      <DependentUpon>TMP_Install_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TMP_Install_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TMP_Install_3.Designer.cs">
+      <DependentUpon>TMP_Install_3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Lessons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Lessons.Designer.cs">
+      <DependentUpon>Lessons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ListContacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ListContacts.Designer.cs">
+      <DependentUpon>ListContacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MailBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MailBackup.Designer.cs">
+      <DependentUpon>MailBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Notes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Notes.Designer.cs">
+      <DependentUpon>Notes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Printer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Printer.Designer.cs">
+      <DependentUpon>Printer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrivatePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrivatePanel.Designer.cs">
+      <DependentUpon>PrivatePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReportViewer.Designer.cs">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SelectClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SelectClass.Designer.cs">
+      <DependentUpon>SelectClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SelectSchool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SelectSchool.Designer.cs">
+      <DependentUpon>SelectSchool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SelectTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SelectTeacher.Designer.cs">
+      <DependentUpon>SelectTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SettingGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingGrades.Designer.cs">
+      <DependentUpon>SettingGrades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StudentCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StudentCard.Designer.cs">
+      <DependentUpon>StudentCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Students.Designer.cs">
+      <DependentUpon>Students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StudentsSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StudentsSelect.Designer.cs">
+      <DependentUpon>StudentsSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TeacherPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TeacherPanel.Designer.cs">
+      <DependentUpon>TeacherPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\TextEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\TextEditor.Designer.cs">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DataGridViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DataGridViewer.Designer.cs">
+      <DependentUpon>DataGridViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Images.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Images.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CrystalReports\ClassList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ClassList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReports\StudentList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StudentList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReports\TeacherList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TeacherList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddLesson.resx">
+      <DependentUpon>AddLesson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddNote.resx">
+      <DependentUpon>AddNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddSomeStudents.resx">
+      <DependentUpon>AddSomeStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Contact.resx">
+      <DependentUpon>Contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Counter.resx">
+      <DependentUpon>Counter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Duties.resx">
+      <DependentUpon>Duties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\EditMOTD.resx">
+      <DependentUpon>EditMOTD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Educators.resx">
+      <DependentUpon>Educators.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\InfoFiles.resx">
+      <DependentUpon>InfoFiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Lobby.resx">
+      <DependentUpon>Lobby.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Mailer.resx">
+      <DependentUpon>Mailer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Permissions.resx">
+      <DependentUpon>Permissions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Statistics1.resx">
+      <DependentUpon>Statistics1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Statistics2.resx">
+      <DependentUpon>Statistics2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Statistics3.resx">
+      <DependentUpon>Statistics3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Statistics4.resx">
+      <DependentUpon>Statistics4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\Subjects.resx">
+      <DependentUpon>Subjects.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\SystemSetting.resx">
+      <DependentUpon>SystemSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\TeacherAdd.resx">
+      <DependentUpon>TeacherAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\TeacherEdit.resx">
+      <DependentUpon>TeacherEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration Forms\TeacherList.resx">
+      <DependentUpon>TeacherList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Administration.resx">
+      <DependentUpon>Administration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CancelStudent.resx">
+      <DependentUpon>CancelStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditClassStudents.resx">
+      <DependentUpon>EditClassStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EmbeddingClasses.resx">
+      <DependentUpon>EmbeddingClasses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Error.resx">
+      <DependentUpon>Error.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Grades.resx">
+      <DependentUpon>Grades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GroupEditor.resx">
+      <DependentUpon>GroupEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InfoFile.resx">
+      <DependentUpon>InfoFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Input.resx">
+      <DependentUpon>Input.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Install.resx">
+      <DependentUpon>Install.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TMP_Install.resx">
+      <DependentUpon>TMP_Install.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TMP_Install_2.resx">
+      <DependentUpon>TMP_Install_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TMP_Install_3.resx">
+      <DependentUpon>TMP_Install_3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Lessons.resx">
+      <DependentUpon>Lessons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ListContacts.resx">
+      <DependentUpon>ListContacts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MailBackup.resx">
+      <DependentUpon>MailBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Notes.resx">
+      <DependentUpon>Notes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Printer.resx">
+      <DependentUpon>Printer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrivatePanel.resx">
+      <DependentUpon>PrivatePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReportViewer.resx">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SelectClass.resx">
+      <DependentUpon>SelectClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SelectSchool.resx">
+      <DependentUpon>SelectSchool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SelectTeacher.resx">
+      <DependentUpon>SelectTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettingGrades.resx">
+      <DependentUpon>SettingGrades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StudentCard.resx">
+      <DependentUpon>StudentCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Students.resx">
+      <DependentUpon>Students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StudentsSelect.resx">
+      <DependentUpon>StudentsSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TeacherPanel.resx">
+      <DependentUpon>TeacherPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\TextEditor.resx">
+      <DependentUpon>TextEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DataGridViewer.resx">
+      <DependentUpon>DataGridViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Images.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Images.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-ok-apply-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Israel-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play-Mode-Repeat-All-Hot-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm-Arrow-Left-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm-Arrow-Right-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-dialog-close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Documents\Changelog.txt" />
+    <Content Include="Documents\Template.txt" />
+    <None Include="Resources\Windows-Table-icon.png" />
+    <None Include="Resources\binoculars-icon.png" />
+    <None Include="Resources\spinning_planet_83.gif" />
+    <None Include="Resources\Devices-media-floppy-icon.png" />
+    <None Include="Resources\text-list-bullets-icon.png" />
+    <None Include="Resources\Calculator-icon.png" />
+    <None Include="Resources\copy-icon.png" />
+    <None Include="Resources\Hardware-Printer-Text-icon.png" />
+    <None Include="Resources\Pencil-icon.png" />
+    <None Include="Resources\Email-icon.png" />
+    <None Include="Resources\Help-icon.png" />
+    <None Include="Resources\eye-icon.png" />
+    <None Include="Resources\noimage.PNG" />
+    <None Include="Resources\1-Pictures-icon.png" />
+    <None Include="Resources\inbox-upload-icon.png" />
+    <None Include="Resources\inbox-download-icon.png" />
+    <None Include="Resources\mail-reply-icon.png" />
+    <None Include="Resources\mail-reply-all-icon.png" />
+    <None Include="Resources\Actions-view-list-tree-icon.png" />
+    <None Include="Resources\statistics-icon.png" />
+    <None Include="Resources\change-password-icon.png" />
+    <Content Include="Documents\ToDoList.txt" />
+    <None Include="Resources\remove-icon.png" />
+    <None Include="Resources\back-icon.png" />
+    <None Include="Resources\voice-search-icon.png" />
+    <None Include="Resources\database-add-icon.png" />
+    <None Include="Resources\ast-add-icon.png" />
+    <None Include="Resources\Search-icon.png" />
+    <None Include="Resources\Start-Menu-Search-icon.png" />
+    <None Include="Resources\Actions-document-edit-icon.png" />
+    <None Include="Resources\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forms\Installation\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

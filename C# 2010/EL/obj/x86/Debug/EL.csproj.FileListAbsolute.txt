@@ -1,0 +1,314 @@
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\bin\Debug\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\bin\Debug\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\bin\Debug\NAudio.dll
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Forms.Error.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Forms.Install.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Forms.Install_2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Forms.Install_3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Forms.Login.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Forms.SelectSchool.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Debug\EL.pdb
+C:\Users\09_03\Desktop\P\C#\EL\bin\Debug\EL.exe.config
+C:\Users\09_03\Desktop\P\C#\EL\bin\Debug\EL.exe
+C:\Users\09_03\Desktop\P\C#\EL\bin\Debug\EL.pdb
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Error.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Install.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Install_2.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Install_3.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Lessons.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Login.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.SelectSchool.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Students.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.TeacherPanel.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Main.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Images.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Properties.Resources.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.exe
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.pdb
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.AddLesson.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.Notes.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Debug\EL.Forms.StudentCard.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\bin\Debug\EL.exe.config
+C:\Users\09_03\Desktop\Project\C# 2010\EL\bin\Debug\EL.exe
+C:\Users\09_03\Desktop\Project\C# 2010\EL\bin\Debug\EL.pdb
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.AddLesson.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.CancelStudent.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Error.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Install.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Install_2.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Install_3.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Lessons.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Login.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Notes.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectClass.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectSchool.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.StudentCard.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.Students.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Forms.TeacherPanel.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Main.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Images.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.Properties.Resources.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.exe
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Debug\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\bin\Debug\EL.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\bin\Debug\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\bin\Debug\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddLesson.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.CancelStudent.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Error.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Install.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Install_2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Install_3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Lessons.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Login.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Notes.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectClass.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectSchool.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.StudentCard.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Students.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TeacherPanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.pdb
+C:\Users\09_03\Desktop\P\C# 2010\EL\bin\Debug\EL.exe.config
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Debug\EL.exe
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Debug\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddNote.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddSomeStudents.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Grades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.GroupEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Printer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.PrivatePanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SettingGrades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.StudentsSelect.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TextEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Counter.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Duties.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.EditMOTD.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Educators.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.InfoFiles.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Lobby.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Mailer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics1.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics4.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.StatisticsReset.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.SystemSetting.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherAdd.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherEdit.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherList.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Contact.resources
+C:\Users\09_03\Desktop\P\C# 2010\C# 2010\EL\bin\Debug\EL.exe.config
+C:\Users\09_03\Desktop\P\C# 2010\C# 2010\EL\obj\x86\Debug\EL.exe
+C:\Users\09_03\Desktop\P\C# 2010\C# 2010\EL\obj\x86\Debug\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Input.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.EditClassStudents.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.EmbeddingClasses.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectTeacher.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.ReportViewer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Permissions.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.InfoFile.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.ListContacts.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.MailBackup.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Subjects.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1100.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1142.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1142.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1143.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1143.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1172.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1214.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1215.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1216.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1246.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1216.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1245.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1373.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1374.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1399.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1401.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1414.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1373.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1400.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\bin\Debug\EL.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\bin\Debug\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\bin\Debug\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddLesson.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddNote.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddSomeStudents.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Contact.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Counter.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Duties.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.EditMOTD.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Educators.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.InfoFiles.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Lobby.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Mailer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Permissions.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics1.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics4.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Subjects.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.SystemSetting.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherAdd.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherEdit.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherList.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.CancelStudent.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.EditClassStudents.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.EmbeddingClasses.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Error.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Grades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.GroupEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.InfoFile.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Input.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Install.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Lessons.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.ListContacts.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Login.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.MailBackup.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Notes.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Printer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.PrivatePanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.ReportViewer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectClass.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectSchool.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectTeacher.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SettingGrades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.StudentCard.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Students.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.StudentsSelect.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TeacherPanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TextEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1142.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1143.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1172.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1214.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1215.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1216.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1246.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1373.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1374.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1399.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1401.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1414.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1100.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1142.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1143.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1216.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1245.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1373.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1400.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.DataGridViewer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TMP_Install.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TMP_Install_2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TMP_Install_3.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\bin\Debug\EL.exe.config
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.exe
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.pdb
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddLesson.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddNote.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.AddSomeStudents.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Contact.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Counter.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Duties.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.EditMOTD.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Educators.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.InfoFiles.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Lobby.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Mailer.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Permissions.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics1.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics2.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics3.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Statistics4.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.Subjects.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.SystemSetting.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherAdd.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherEdit.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration_Forms.TeacherList.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Administration.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.CancelStudent.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.EditClassStudents.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.EmbeddingClasses.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Error.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Grades.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.GroupEditor.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.InfoFile.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Input.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Install.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TMP_Install.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TMP_Install_2.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TMP_Install_3.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Lessons.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.ListContacts.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Login.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.MailBackup.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Notes.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Printer.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.PrivatePanel.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.ReportViewer.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectClass.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectSchool.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SelectTeacher.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.SettingGrades.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.StudentCard.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.Students.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.StudentsSelect.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TeacherPanel.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.TextEditor.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Forms.DataGridViewer.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Main.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Images.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\EL.Properties.Resources.resources
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1142.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1143.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1172.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1214.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1215.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1216.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1246.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1373.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1374.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1399.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1401.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.read.1414.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1100.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1142.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1143.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1216.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1245.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1373.tlog
+C:\Users\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Debug\GenerateResource.write.1400.tlog

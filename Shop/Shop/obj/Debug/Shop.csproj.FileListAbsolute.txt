@@ -1,0 +1,20 @@
+O:\Shop\Shop\obj\Debug\Shop.exe
+O:\Shop\Shop\obj\Debug\Shop.pdb
+X:\Shop\Shop\obj\Debug\Shop.exe
+X:\Shop\Shop\obj\Debug\Shop.pdb
+X:\Shop\Shop\bin\Debug\shop.mdb
+X:\Shop\Shop\bin\Debug\Shop.exe
+X:\Shop\Shop\bin\Debug\Shop.pdb
+X:\Shop\Shop\obj\Debug\ResolveAssemblyReference.cache
+X:\Shop\Shop\obj\Debug\Shop.Form1.resources
+X:\Shop\Shop\obj\Debug\Shop.Form2.resources
+X:\Shop\Shop\obj\Debug\Shop.Form3.resources
+X:\Shop\Shop\obj\Debug\Shop.Form4.resources
+X:\Shop\Shop\obj\Debug\Shop.Form5.resources
+X:\Shop\Shop\obj\Debug\Shop.Form6.resources
+X:\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+X:\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\09_03\Desktop\P\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\09_03\Desktop\P\Shop\Shop\obj\Debug\Shop.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Shop\obj\Debug\Shop.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\Shop\Shop\obj\Debug\Shop.pdb

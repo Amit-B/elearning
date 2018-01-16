@@ -1,0 +1,227 @@
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\bin\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\bin\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\EL.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\EL.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\EL.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\EL.Forms.Login.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\bin\Release\MySql.Data.dll
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\EL\obj\x86\Release\EL.Forms.SelectSchool.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.Install.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.Install_2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.Install_3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.Login.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.SelectSchool.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\bin\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\bin\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.Error.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.exe
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.pdb
+C:\Users\09_03\Desktop\P\C#\EL\bin\Release\EL.exe
+C:\Users\09_03\Desktop\P\C#\EL\bin\Release\EL.pdb
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Error.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Install.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Install_2.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Install_3.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Login.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.SelectSchool.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Main.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Images.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Properties.Resources.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\bin\Release\EL.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.Students.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.Template.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C#\EL\obj\x86\Release\EL.Forms.TeacherPanel.resources
+C:\Users\09_03\Desktop\P\C#\EL\bin\Release\EL.exe.config
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Lessons.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Students.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.TeacherPanel.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.AddLesson.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.Notes.resources
+C:\Users\09_03\Desktop\P\C#\EL\obj\x86\Release\EL.Forms.StudentCard.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\bin\Release\EL.exe.config
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.exe
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.pdb
+C:\Users\09_03\Desktop\Project\C# 2010\EL\bin\Release\EL.exe
+C:\Users\09_03\Desktop\Project\C# 2010\EL\bin\Release\EL.pdb
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.AddLesson.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.CancelStudent.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Error.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Install.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Install_2.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Install_3.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Lessons.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Login.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Notes.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.SelectClass.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.SelectSchool.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.StudentCard.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.Students.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Forms.TeacherPanel.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Main.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Images.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\EL.Properties.Resources.resources
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\09_03\Desktop\Project\C# 2010\EL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\bin\Release\EL.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.AddLesson.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.CancelStudent.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Error.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Install.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Install_2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Install_3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Lessons.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Login.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Notes.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.SelectClass.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.SelectSchool.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.StudentCard.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Students.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.TeacherPanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\bin\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\bin\Release\EL.pdb
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.AddLesson.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.CancelStudent.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Error.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Install.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Install_2.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Install_3.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Lessons.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Login.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Notes.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.SelectClass.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.SelectSchool.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.StudentCard.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Students.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.TeacherPanel.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Main.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Images.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Properties.Resources.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.exe
+C:\Users\09_03\Desktop\P\C# 2010\EL\bin\Release\EL.exe.config
+C:\Users\09_03\Desktop\P\C# 2010\EL\bin\Release\EL.exe
+C:\Users\09_03\Desktop\P\C# 2010\EL\bin\Release\EL.pdb
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.pdb
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Grades.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.Printer.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.SettingGrades.resources
+C:\Users\09_03\Desktop\P\C# 2010\EL\obj\x86\Release\EL.Forms.TextEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\C# 2010\EL\bin\Release\EL.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\C# 2010\EL\obj\x86\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\C# 2010\EL\obj\x86\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.AddNote.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.AddSomeStudents.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Grades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.GroupEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Printer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.SettingGrades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.TextEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Lobby.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.PrivatePanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.StudentsSelect.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Counter.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.EditMOTD.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.InfoFiles.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Mailer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics1.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics4.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.StatisticsReset.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.SystemSetting.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.TeacherAdd.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.TeacherEdit.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.TeacherList.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Duties.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Educators.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\Other\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Contact.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\bin\Release\EL.exe.config
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\bin\Release\EL.exe
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\bin\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.AddLesson.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.AddNote.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.AddSomeStudents.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Contact.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Counter.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Duties.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.EditMOTD.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Educators.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.InfoFiles.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Lobby.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Mailer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Permissions.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics1.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Statistics4.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.Subjects.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.SystemSetting.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.TeacherAdd.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.TeacherEdit.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration_Forms.TeacherList.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Administration.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.CancelStudent.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.EditClassStudents.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.EmbeddingClasses.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Error.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Grades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.GroupEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.InfoFile.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Input.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Install.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Install_2.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Install_3.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Lessons.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.ListContacts.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Login.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.MailBackup.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Notes.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Printer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.PrivatePanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.ReportViewer.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.SelectClass.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.SelectSchool.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.SelectTeacher.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.SettingGrades.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.StudentCard.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.Students.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.StudentsSelect.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.TeacherPanel.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.TextEditor.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Main.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Images.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Properties.Resources.resources
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.pdb
+C:\Documents and Settings\Amit\Desktop\עמית\פרוייקטים\C#\EL\C# 2010\EL\obj\x86\Release\EL.Forms.DataGridViewer.resources
